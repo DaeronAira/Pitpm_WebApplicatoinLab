@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Car",
+    "description": "Elegant white car",
+    "price": 150000
+  },
+  {
+    "id": 2,
+    "name": "Wheel",
+    "description": "Black wheel for white car",
+    "price": 3000
+  },
+  {
+    "id": 3,
+    "name": "apple",
+    "description": "tasty green apple",
+    "price": 35
+  },
+  {
+    "id": 4,
+    "name": "flower",
+    "description": "beautiful yellow flower",
+    "price": 660
+  }
+]
